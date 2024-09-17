@@ -43,7 +43,7 @@ public class GroceryCounter {
   }
 
 
-    public int number_of_overflows(){
+  public int number_of_overflows(){
       return overflows;
   }
   public void clear(){
